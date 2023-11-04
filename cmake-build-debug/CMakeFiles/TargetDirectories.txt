@@ -1,0 +1,3 @@
+/home/aj/CLionProjects/crafting-compilers/cmake-build-debug/CMakeFiles/crafting_compilers.dir
+/home/aj/CLionProjects/crafting-compilers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aj/CLionProjects/crafting-compilers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
