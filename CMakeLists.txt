@@ -7,4 +7,8 @@ add_executable(crafting_compilers main.c
         common.h
         chunk.c
         memory.c
-        memory.h)
+        memory.h
+        debug.c
+        debug.h
+        value.c
+        value.h)
