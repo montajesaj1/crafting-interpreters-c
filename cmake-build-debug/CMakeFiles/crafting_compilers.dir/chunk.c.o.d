@@ -64,8 +64,9 @@ CMakeFiles/crafting_compilers.dir/chunk.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/malloc/_malloc.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_dev_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_mode_t.h \
-  /Users/user/CLionProjects/crafting-interpreters-c/chunk.h \
+  /Users/user/CLionProjects/crafting-interpreters-c/value.h \
   /Users/user/CLionProjects/crafting-interpreters-c/common.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdbool.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
+  /Users/user/CLionProjects/crafting-interpreters-c/chunk.h \
   /Users/user/CLionProjects/crafting-interpreters-c/memory.h

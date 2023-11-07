@@ -1,4 +1,5 @@
 #include <stdlib.h>
+#include "value.h"
 #include "chunk.h"
 #include "memory.h"
 
@@ -19,6 +20,12 @@ void writeChunk(Chunk* chunk, uint8_t byte) {
     chunk->code[chunk->count] = byte;
     chunk->count++;
 }
+
+int addConstant(Chunk* chunk, Value value) {
+    writeValueArray(&chunk->constants, value);
+    return chunk->constants.count - 1;
+}
+
 
 void freeChunk(Chunk* chunk) {
     FREE_ARRAY(uint8_t, chunk->code, chunk->capacity);

@@ -31,4 +31,5 @@ CMakeFiles/crafting_compilers.dir/main.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_intmax_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_types/_uintmax_t.h \
   /Users/user/CLionProjects/crafting-interpreters-c/debug.h \
-  /Users/user/CLionProjects/crafting-interpreters-c/chunk.h
+  /Users/user/CLionProjects/crafting-interpreters-c/chunk.h \
+  /Users/user/CLionProjects/crafting-interpreters-c/value.h

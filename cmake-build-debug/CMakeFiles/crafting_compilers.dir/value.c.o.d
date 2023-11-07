@@ -1,5 +1,5 @@
-CMakeFiles/crafting_compilers.dir/debug.c.o: \
-  /Users/user/CLionProjects/crafting-interpreters-c/debug.c \
+CMakeFiles/crafting_compilers.dir/value.c.o: \
+  /Users/user/CLionProjects/crafting-interpreters-c/value.c \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/cdefs.h \
@@ -34,8 +34,7 @@ CMakeFiles/crafting_compilers.dir/debug.c.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/sys/_types/_ssize_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/secure/_stdio.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk/usr/include/secure/_common.h \
-  /Users/user/CLionProjects/crafting-interpreters-c/debug.h \
-  /Users/user/CLionProjects/crafting-interpreters-c/chunk.h \
+  /Users/user/CLionProjects/crafting-interpreters-c/memory.h \
   /Users/user/CLionProjects/crafting-interpreters-c/common.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stdbool.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include/stddef.h \
